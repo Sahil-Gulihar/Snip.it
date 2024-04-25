@@ -24,7 +24,7 @@ const RemoveBgComponent = ({ urlMilega }) => {
         responseType: 'arraybuffer',
         headers: {
           ...headers,
-          'X-Api-Key': import.meta.env.REACT_APP_X_API_KEY,
+          'X-Api-Key': 'zFCt1a4nsx7WitVKtZXrtVqi',
         },
         encoding: null,
       });
